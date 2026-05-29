@@ -12,7 +12,7 @@ P_SOBRE = 9.50   # Q por sobre
 P_CAJA  = 975.00 # Q por caja (104 sobres)
 SOBRES_CAJA = 104
 
-np.random.seed(42)
+np.random.seed(2026)
 print(f"Parámetros: N={N}, S={S}, precio sobre=Q{P_SOBRE}, precio caja=Q{P_CAJA}")
 
 
